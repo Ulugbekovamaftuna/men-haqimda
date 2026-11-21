@@ -19,4 +19,6 @@ Men kelajakda dasturchi bo‘lib, foydali loyihalar yaratmoqchiman.
 
 Mening GitHub sahifam: [GitHub](https://github.com/Ulugbekovamaftuna
  Men yangi loyihalar yaratishni yaxshi ko‘raman
+ Mening GitHub sahifam: [GitHub](https://github.com/Ulugbekovamaftun
+ Mening GitHub sahifam: [GitHub](https://github.com/Ulugbekovamaftuna
 
