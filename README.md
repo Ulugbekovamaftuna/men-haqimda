@@ -1,13 +1,20 @@
+
  # Men haqimda
- ## Salom! Mening ismim Maftuna
- Men o'quvchiman. Men yangi bilimlar o'rganishni
- yahshi ko'raman.
 
- Men dasturlashni o'rganaman.
- Men texnologiyalarga qiziqaman
- Men kelajakda yahshi dasturchi bo'lishni 
- xohlayman.
+## Salom! Mening ismim Maftuna
 
- **Men global man!**
+Men o‘quvchiman. Men yangi bilimlarni yaxshi ko‘raman.
 
- 
+## Mening qiziqishlarim
+
+- Dasturlash
+- Texnologiyalar
+- Yangi bilimlar
+
+**Men yaxshi dasturchi bo‘lishni xohlayman!**
+
+## Mening maqsadim
+
+Men kelajakda dasturchi bo‘lib, foydali loyihalar yaratmoqchiman.
+
+Mening GitHub sahifam: [GitHub](https://github.com/Ulugbekovamaftuna
